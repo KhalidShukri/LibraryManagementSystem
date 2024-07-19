@@ -5,6 +5,6 @@
         </encoder>
     </appender>
     <root level="info">
-        <appender-ref ref="CONSOLE"/>
+        <appender-ref ref="CONSOLE"></appender-ref>
     </root>
 </configuration>
